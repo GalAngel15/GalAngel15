@@ -1,6 +1,6 @@
 # **Hi 👋, I'm Gal**  
 
-<div align="center">👨🏻‍🎓 Third-year B.Sc. Software Engineering student at Afeka College specializing in  Mobile Applications (GPA: 90)</div>  
+<div align="center">👨🏻‍🎓 Fourth-year B.Sc. Software Engineering student at Afeka College specializing in  Mobile Applications (GPA: 90)</div>  
 <div align="center">💻 Passionate about mobile development and backend systems</div>  
 
 <br/>  
